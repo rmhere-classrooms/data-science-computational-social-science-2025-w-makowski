@@ -1,3 +1,3 @@
-https://rmhere.shinyapps.io/aclevel/
-imie nazwisko
-numer indeksu
+https://wojciech-m.shinyapps.io/ic-model-email-network/
+Wojciech Makowski
+272723
